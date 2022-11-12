@@ -39,4 +39,4 @@ Here are some common tasks I’m asked to help with, but really anything you mig
 
 
 ## 📫 Contact me:
-[![Email Badge](https://img.shields.io/badge/-mail@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mail@gmail.com)](mailto:mail@gmail.com) 
+[![Email Badge](https://img.shields.io/badge/-karmaarray@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:karmaarray@gmail.com)](mailto:karmaarray@gmail.com) 
